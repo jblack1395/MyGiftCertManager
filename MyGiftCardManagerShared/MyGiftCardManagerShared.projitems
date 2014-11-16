@@ -9,8 +9,8 @@
     <Import_RootNamespace>MyGiftCardManagerShared</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)GiftCardDAO.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)CompanyModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ProcessedOrders.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MyGiftCardDAO.cs" />
   </ItemGroup>
 </Project>

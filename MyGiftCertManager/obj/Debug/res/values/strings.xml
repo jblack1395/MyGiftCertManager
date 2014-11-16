@@ -1,1 +1,1 @@
-<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">MyGiftCertManager</string></resources>
+<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">MyGiftCertManager</string><string name="setting_tab_name">Setting</string><string name="order_tab_name">Orders</string><string name="company_tab_name">Companies</string></resources>

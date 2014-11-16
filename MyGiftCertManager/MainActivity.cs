@@ -19,7 +19,29 @@ namespace MyGiftCertManager
 			base.OnCreate (bundle);
 
 			this.ActionBar.NavigationMode = ActionBarNavigationMode.Tabs;
+			ActionBar.Tab tab = ActionBar.NewTab ();
+			tab.SetText (Resources.GetString (Resource.String.setting_tab_name));
+			tab.SetIcon (Android.Resource.Drawable.IcMenuPreferences);
+			tab.TabSelected += (sender, args) => {
+				// Do something when tab is selected
+			};
+			this.ActionBar.AddTab (tab);
 
+			tab = ActionBar.NewTab ();
+			tab.SetText (Resources.GetString (Resource.String.company_tab_name));
+			tab.SetIcon (Android.Resource.Drawable.IcMenuSave);
+			tab.TabSelected += (sender, args) => {
+				// Do something when tab is selected
+			};
+			ActionBar.AddTab (tab);
+
+			tab = ActionBar.NewTab ();
+			tab.SetText (Resources.GetString (Resource.String.order_tab_name));
+			tab.SetIcon (Android.Resource.Drawable.IcMenuSearch);
+			tab.TabSelected += (sender, args) => {
+				// Do something when tab is selected
+			};
+			ActionBar.AddTab (tab);
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 

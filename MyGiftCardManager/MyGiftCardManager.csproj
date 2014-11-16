@@ -86,6 +86,7 @@
     <Reference Include="monotouch" />
     <Reference Include="System.Data" />
     <Reference Include="Mono.Data.Sqlite" />
+    <Reference Include="System.Json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />

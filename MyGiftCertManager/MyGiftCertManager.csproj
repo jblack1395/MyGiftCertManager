@@ -44,11 +44,15 @@
     <Reference Include="Mono.Android" />
     <Reference Include="Mono.Data.Sqlite" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Json" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\layout\PendingOrderFragment.cs">
+      <DependentUpon>Main.axml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -60,6 +64,7 @@
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\drawable\Icon.png" />
     <AndroidResource Include="Resources\layout-large\Main.axml" />
+    <AndroidResource Include="Resources\layout\pending_order_fragment.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

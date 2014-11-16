@@ -21,6 +21,8 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Data.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Mono.Data.Sqlite.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Json.dll \
 	-debug \
 	-nolink \
 	-sdk \

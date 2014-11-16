@@ -11,3 +11,5 @@
 /Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/uploadflags.txt
 /Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/MyGiftCertManager.dll
 /Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/MyGiftCertManager.dll.mdb
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/res/layout-large/main.xml
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/res/layout/pending_order_fragment.xml

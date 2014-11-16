@@ -1,1 +1,2 @@
 MyGiftCertManager.MainActivity;mygiftcertmanager.MainActivity
+MyGiftCertManager.PendingOrderFragment;mygiftcertmanager.PendingOrderFragment
