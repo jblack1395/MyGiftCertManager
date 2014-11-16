@@ -1,0 +1,13 @@
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/bin/Debug/MyGiftCertManager.dll.mdb
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/bin/Debug/MyGiftCertManager.dll
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/bin/Debug/MyGiftCertManager.MyGiftCertManager.apk
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/android/bin/MyGiftCertManager.MyGiftCertManager.apk
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/res/layout/main.xml
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/res/values/strings.xml
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/res/drawable/icon.png
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/R.cs.flag
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/bin/Debug/MyGiftCertManager.MyGiftCertManager-Signed.apk
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/uploadflags.txt
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/MyGiftCertManager.dll
+/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCertManager/obj/Debug/MyGiftCertManager.dll.mdb

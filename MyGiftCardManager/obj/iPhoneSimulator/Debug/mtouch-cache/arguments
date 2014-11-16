@@ -1,0 +1,31 @@
+# Version: 8.4.0.38 (9e57461)
+# [first argument, ignore] # /Users/jamesblack/Projects/MyGiftCertManager/MyGiftCardManager/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.38/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCardManager/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCardManager/bin/iPhoneSimulator/Debug/MyGiftCardManager.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Data.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Mono.Data.Sqlite.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/jamesblack/Projects/MyGiftCertManager/MyGiftCardManager/bin/iPhoneSimulator/Debug/MyGiftCardManager.exe \

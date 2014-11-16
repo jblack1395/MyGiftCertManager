@@ -1,0 +1,1 @@
+MyGiftCertManager.MainActivity;mygiftcertmanager.MainActivity

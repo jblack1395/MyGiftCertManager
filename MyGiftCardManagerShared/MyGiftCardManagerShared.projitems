@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{0BA97FC0-9ED0-406E-A95C-EE765D350F71}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>MyGiftCardManagerShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GiftCardDAO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CompanyModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProcessedOrders.cs" />
+  </ItemGroup>
+</Project>
